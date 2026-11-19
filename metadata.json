@@ -1,0 +1,6 @@
+{
+  "name": "Something Special For You",
+  "description": "An intimate, interactive four-step romantic quiz and surprise reveal experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
